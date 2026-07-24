@@ -14,6 +14,7 @@ integraciones, rutas de red, datos operativos o configuraciones sensibles.
 | --- | --- | --- | --- |
 | ITC | Monorepo de apps internas | Privado | [Ver alcance](projects/itc.md) |
 | ITC-DOC | Control documental web | Privado | [Ver alcance](projects/itc-doc.md) |
+| ITC-DocList | Lista documental CRUD y sincronización | Privado | [Ver alcance](projects/itc-doclist.md) |
 | Nexo | Asistencia remota | Privado | [Ver alcance](projects/nexo.md) |
 | Enrique | Bot musical para Discord | Privado | [Ver alcance](projects/enrique.md) |
 | Ventas | Sistema comercial Flask | Privado | [Ver alcance](projects/ventas.md) |
@@ -28,6 +29,12 @@ Suite interna con resguardos, inventario, visor/editor PDF, operacion WOM web,
 formularios OTR/WOD y control documental integrado.
 
 ![ITC Inventario](assets/screenshots/itc/inventario-equipos.png)
+
+### ITC-DocList
+
+Lista documental responsive con CRUD, sincronización Excel/SQLite y persistencia de cambios.
+
+![ITC-DocList](assets/screenshots/itc-doclist/dashboard.png)
 
 ### Nexo
 
