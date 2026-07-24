@@ -2,7 +2,7 @@
 
 Módulo web de control documental para centralizar el formato maestro, localizar archivos por código y gestionar altas, modificaciones y bajas sin perder cambios al resincronizar la fuente Excel.
 
-Repositorio original: [`jcarmona-sys/ITC`](https://github.com/jcarmona-sys/ITC/tree/main/ITC-ACCDBweb/ITC-DocList)  
+Repositorio original: [`jcarmona-sys/ITC`](https://github.com/jcarmona-sys/ITC/tree/main/ITC-ACCDBweb/ITC-DOC/ITC-DocList)  
 Visibilidad del código: privado
 
 ## Alcance
